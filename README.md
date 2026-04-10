@@ -111,5 +111,5 @@ streamlit run app/dashboard.py
 
 Analista com foco em automação de processos, dados e GenAI aplicada. Este projeto foi desenvolvido como demonstração prática de como transformar dados brutos em inteligência operacional de forma autônoma — da ingestão ao relatório executivo.
 
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [GitHub](https://www.linkedin.com/in/luiznelson)
+- [LinkedIn](https://www.linkedin.com/in/luiznelson)
+- [GitHub](https://github.com/luizznelson)
