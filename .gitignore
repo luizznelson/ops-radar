@@ -6,6 +6,7 @@ data/raw/
 # Environment secrets
 .env
 
+# Claude Code project instructions
 CLAUDE.md
 
 # Python
