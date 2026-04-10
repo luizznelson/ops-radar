@@ -1,7 +1,7 @@
 # Olist Ops Intelligence
 
-[![Demo ao vivo](https://img.shields.io/badge/Demo-Streamlit%20Cloud-FF4B4B?logo=streamlit)](https://seu-link-aqui.streamlit.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Nelson-0A66C2?logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![Demo ao vivo](https://img.shields.io/badge/Demo-Streamlit%20Cloud-FF4B4B?logo=streamlit)](https://ops-radar-b2kguj4mcnpgq78ybvsdxk.streamlit.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Nelson-0A66C2?logo=linkedin)](www.linkedin.com/in/luiznelson)
 [![GitHub](https://img.shields.io/badge/GitHub-luizznelson-181717?logo=github)](https://github.com/luizznelson)
 
 ---
