@@ -1,0 +1,40 @@
+{
+  "bed_bath_table": {
+    "principais_reclamacoes": [
+      "produto não corresponde às expectativas",
+      "falta de produtos no pedido",
+      "atraso na entrega",
+      "produto com defeito",
+      "falta de comunicação com o cliente"
+    ],
+    "causa_raiz_provavel": "inconsistência nos processos de estoque, logística e comunicação",
+    "recomendacao_acao": "revisar e otimizar os processos de estoque, logística e comunicação para garantir a entrega de produtos corretos e em tempo hábil",
+    "tom_predominante": "frustrado"
+  },
+  "computers_accessories": {
+    "principais_reclamacoes": [
+      "produtos entregues diferentes do que foram comprados",
+      "falta de transparência sobre a origem dos produtos",
+      "problemas de entrega e atrasos",
+      "produtos de baixa qualidade",
+      "vendedores não respeitam o prazo de entrega e não atendem aos clientes"
+    ],
+    "causa_raiz_provavel": "falta de controle de qualidade e gestão de estoque, além de problemas de comunicação e atendimento ao cliente",
+    "recomendacao_acao": "melhorar a transparência sobre a origem dos produtos, implementar um sistema de controle de qualidade e estoque eficaz, e melhorar o atendimento ao cliente",
+    "tom_predominante": "frustrado"
+  },
+  "health_beauty": {
+    "principais_reclamacoes": [
+      "atrasos na entrega",
+      "produtos entregues com defeitos ou diferentes do pedido",
+      "falta de comunicação e atendimento ao cliente",
+      "produtos não entregues",
+      "embalagens duvidosas",
+      "falta de nota fiscal",
+      "produtos incompletos"
+    ],
+    "causa_raiz_provavel": "A empresa Lannister não está cumprindo os prazos de entrega e não está fornecendo informações precisas aos clientes sobre o status de suas encomendas, o que está causando frustração e decepção.",
+    "recomendacao_acao": "A empresa Lannister deve revisar sua política de entrega e atendimento ao cliente, fornecendo informações precisas e atualizadas sobre o status de cada encomenda, e também deve tomar medidas para garantir que os produtos sejam entregues corretos e completos.",
+    "tom_predominante": "frustrado | revoltado"
+  }
+}

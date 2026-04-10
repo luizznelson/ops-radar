@@ -1,0 +1,74 @@
+{
+  "gerado_em": "2026-04-09T22:49:29.042133",
+  "total_pedidos_analisados": 96478,
+  "taxa_atraso_geral": 0.076,
+  "impacto_atraso_na_nota": -1.83,
+  "estados_criticos": [
+    {
+      "customer_state": "AL",
+      "taxa": 0.22921914357682618,
+      "volume": 397
+    },
+    {
+      "customer_state": "MA",
+      "taxa": 0.18828451882845187,
+      "volume": 717
+    },
+    {
+      "customer_state": "SE",
+      "taxa": 0.15223880597014924,
+      "volume": 335
+    },
+    {
+      "customer_state": "PI",
+      "taxa": 0.15126050420168066,
+      "volume": 476
+    },
+    {
+      "customer_state": "CE",
+      "taxa": 0.1485535574667709,
+      "volume": 1279
+    }
+  ],
+  "categorias_pior_avaliacao": [
+    {
+      "product_category_name_english": "office_furniture",
+      "nota_media": 3.651294498381877,
+      "volume": 1236
+    },
+    {
+      "product_category_name_english": "fashion_male_clothing",
+      "nota_media": 3.8190476190476192,
+      "volume": 105
+    },
+    {
+      "product_category_name_english": "audio",
+      "nota_media": 3.844574780058651,
+      "volume": 341
+    },
+    {
+      "product_category_name_english": "home_confort",
+      "nota_media": 3.9184782608695654,
+      "volume": 368
+    },
+    {
+      "product_category_name_english": "fixed_telephony",
+      "nota_media": 3.9665071770334928,
+      "volume": 209
+    }
+  ],
+  "tendencia_mensal_atraso": {
+    "2017-09": 0.05,
+    "2017-10": 0.049,
+    "2017-11": 0.134,
+    "2017-12": 0.08,
+    "2018-01": 0.062,
+    "2018-02": 0.154,
+    "2018-03": 0.205,
+    "2018-04": 0.05,
+    "2018-05": 0.076,
+    "2018-06": 0.013,
+    "2018-07": 0.041,
+    "2018-08": 0.087
+  }
+}

@@ -1,12 +1,12 @@
-# Data — never version raw or processed data
+# Data — never version raw CSVs (too large, Kaggle source)
 data/raw/
-data/processed/
 
-# Pipeline outputs
-outputs/
+# Pipeline outputs — intentionally versioned for Streamlit Cloud deploy
 
 # Environment secrets
 .env
+
+CLAUDE.md
 
 # Python
 __pycache__/
