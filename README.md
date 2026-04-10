@@ -1,7 +1,7 @@
 # Olist Ops Intelligence
 
 [![Demo ao vivo](https://img.shields.io/badge/Demo-Streamlit%20Cloud-FF4B4B?logo=streamlit)](https://ops-radar-b2kguj4mcnpgq78ybvsdxk.streamlit.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Nelson-0A66C2?logo=linkedin)](www.linkedin.com/in/luiznelson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Nelson-0A66C2?logo=linkedin)](https://www.linkedin.com/in/luiznelson)
 [![GitHub](https://img.shields.io/badge/GitHub-luizznelson-181717?logo=github)](https://github.com/luizznelson)
 
 ---
@@ -112,4 +112,4 @@ streamlit run app/dashboard.py
 Analista com foco em automação de processos, dados e GenAI aplicada. Este projeto foi desenvolvido como demonstração prática de como transformar dados brutos em inteligência operacional de forma autônoma — da ingestão ao relatório executivo.
 
 - [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [GitHub](https://github.com/luizznelson)
+- [GitHub](https://www.linkedin.com/in/luiznelson)
